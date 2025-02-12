@@ -1,0 +1,12 @@
+ssh santech@
+cd cam
+python3 api.py
+
+
+
+cell phone
+laptop
+person
+
+
+http://192.168.137.76:5000/video_feed

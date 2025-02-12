@@ -1,0 +1,12 @@
+flask
+sentence_transformers
+deep_translator
+pydantic
+pymongo
+psutil
+spacy
+pandas
+netifaces
+openAI
+ultralytics
+gitpython
