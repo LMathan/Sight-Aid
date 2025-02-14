@@ -1,7 +1,11 @@
-ssh santech@
-cd cam
-python3 api.py
+RPI
+    ssh santech@
+    cd cam
+    python3 api.py
 
+VENV
+    python3 -m venv venv
+    venv\Scripts\Activate
 
 
 cell phone
