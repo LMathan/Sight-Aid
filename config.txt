@@ -11,6 +11,7 @@ VENV
 cell phone
 laptop
 person
+etc..
 
 
 http://192.168.137.76:5000/video_feed
